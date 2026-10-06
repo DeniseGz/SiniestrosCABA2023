@@ -1,11 +1,12 @@
 # 📊 Análisis de Siniestros Viales en CABA
 
 ### ✨ Tecnologías utilizadas:
-[![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/)
-[![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/POWER%20BI-75AADB?style=flat&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXCEL-4682B4?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER%20QUERY-1C39BB?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F8D347?style=flat&logoColor=black" />
+</p>
 ---
 
 ### 🚀 Descripción del Proyecto 
