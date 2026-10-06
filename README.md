@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/DAX-F8D347?style=flat&logoColor=black" />
 </p>
 
-### 🚀 Descripción del Proyecto 
+### ☀️ Descripción del Proyecto 
 Desarrollo de tablero interactivo en Power BI para el análisis y visualización de incidentes viales en la Ciudad de Buenos Aires utilizando datos públicos.
 
 * Desarrollo de dashboard interactivo en Power BI para visualizar y monitorear siniestros viales en CABA a partir de fuentes de datos públicos.
