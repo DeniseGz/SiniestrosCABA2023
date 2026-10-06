@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/POWER%20QUERY-1C39BB?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F8D347?style=flat&logoColor=black" />
 </p>
----
 
 ### 🚀 Descripción del Proyecto 
 Desarrollo de tablero interactivo en Power BI para el análisis y visualización de incidentes viales en la Ciudad de Buenos Aires utilizando datos públicos.
