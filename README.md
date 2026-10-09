@@ -17,7 +17,6 @@
 * Desarrollo de medidas y KPIs complejos con DAX para la detección precisa de zonas de alto riesgo vial.
 * Automatización de reportes mensuales, optimizando los tiempos de actualización y facilitando el acceso a información clave para la toma de decisiones.
 
----
 
 ## 📈 Visualizaciones y Componentes del Tablero
 El reporte interactivo incluye cuatro visualizaciones principales para el análisis de los datos:
