@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/EXCEL-white.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white&colorB=4976A1" alt="EXCEL">
   <img src="https://img.shields.io/badge/POWER_QUERY-white.svg?style=for-the-badge&logo=powerbi&logoColor=white&colorB=1B3E9A" alt="POWER QUERY">
   <img src="https://img.shields.io/badge/DAX-white.svg?style=for-the-badge&logo=powerbi&logoColor=white&colorB=ECC84B" alt="DAX">
-  <img src="https://img.shields.io/badge/Hecho_en-Argentina-75AADB.svg?style=flat&logo=argentina&logoColor=white" alt="Hecho en Argentina">
+  <img src="https://img.shields.io/badge/CABA-Argentina-75AADB.svg?style=flat&logo=argentina&logoColor=white" alt="Hecho en Argentina">
 </p>
 
 🤍 *Tablero interactivo en Power BI para el análisis y visualización de incidentes viales en la Ciudad de Buenos Aires utilizando datos públicos.* 💙
