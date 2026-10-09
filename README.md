@@ -1,10 +1,12 @@
 # 📊 Análisis de Siniestros Viales en CABA
 
 <p align="center">
+  <p align="center">
+  <img src="https://img.shields.io/badge/POWER_BI-white.svg?style=for-the-badge&logo=powerbi&logoColor=white&colorB=6A9BDD" alt="POWER BI">
+  <img src="https://img.shields.io/badge/EXCEL-white.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white&colorB=4976A1" alt="EXCEL">
+  <img src="https://img.shields.io/badge/POWER_QUERY-white.svg?style=for-the-badge&logo=powerbi&logoColor=white&colorB=1B3E9A" alt="POWER QUERY">
+  <img src="https://img.shields.io/badge/DAX-white.svg?style=for-the-badge&logo=powerbi&logoColor=white&colorB=ECC84B" alt="DAX">
   <img src="https://img.shields.io/badge/Hecho_en-Argentina-75AADB.svg?style=flat&logo=argentina&logoColor=white" alt="Hecho en Argentina">
-  <img src="https://img.shields.io/badge/Estado-En_Desarrollo-4090D1.svg?style=flat&logo=gitbook&colorB=D1E8FF" alt="Estado">
-  <img src="https://img.shields.io/badge/PowerBI_con_DAX-Argentina-75AADB.svg?style=flat&logo=powerbi&logoColor=white&colorB=D1E8FF" alt="Power BI">
-  <img src="https://img.shields.io/badge/License-MIT-75AADB.svg?style=flat&colorB=D1E8FF" alt="License">
 </p>
 
 🤍 *Tablero interactivo en Power BI para el análisis y visualización de incidentes viales en la Ciudad de Buenos Aires utilizando datos públicos.* 💙
