@@ -1,14 +1,10 @@
 # 📊 Análisis de Siniestros Viales en CABA
 
 <p align="center">
-  <img src="https://img.shields.io/badge/POWER%20BI-75AADB?style=flat&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXCEL-4682B4?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/POWER%20QUERY-1C39BB?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-F8D347?style=flat&logoColor=black" />
-  ![](https://img.shields.io/badge/Hecho_en-Argentina-75AADB.svg?style=flat&logo=argentina&logoColor=white)
-  ![](https://img.shields.io/badge/Estado-En_Desarrollo-4090D1.svg?style=flat&logo=gitbook&colorB=D1E8FF)
-  ![](https://img.shields.io/badge/PowerBI_con_DAX-Argentina-75AADB.svg?style=flat&logo=powerbi&logoColor=white&colorB=D1E8FF)
-  ![](https://img.shields.io/badge/License-MIT-75AADB.svg?style=flat&colorB=D1E8FF)
+  <img src="https://img.shields.io/badge/Hecho_en-Argentina-75AADB.svg?style=flat&logo=argentina&logoColor=white" alt="Hecho en Argentina">
+  <img src="https://img.shields.io/badge/Estado-En_Desarrollo-4090D1.svg?style=flat&logo=gitbook&colorB=D1E8FF" alt="Estado">
+  <img src="https://img.shields.io/badge/PowerBI_con_DAX-Argentina-75AADB.svg?style=flat&logo=powerbi&logoColor=white&colorB=D1E8FF" alt="Power BI">
+  <img src="https://img.shields.io/badge/License-MIT-75AADB.svg?style=flat&colorB=D1E8FF" alt="License">
 </p>
 
 🤍 *Tablero interactivo en Power BI para el análisis y visualización de incidentes viales en la Ciudad de Buenos Aires utilizando datos públicos.* 💙
