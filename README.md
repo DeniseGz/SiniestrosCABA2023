@@ -16,4 +16,12 @@ Desarrollo de tablero interactivo en Power BI para el análisis y visualización
 * Desarrollo de medidas y KPIs complejos con DAX para la detección precisa de zonas de alto riesgo vial.
 * Automatización de reportes mensuales, optimizando los tiempos de actualización y facilitando el acceso a información clave para la toma de decisiones.
 
+## 🛠️ Estructura de Datos del Modelo
+El modelo de datos maneja las siguientes dimensiones principales para el análisis de siniestros:
+
+*   **Dim_Tiempo**: Fecha, Año, Mes, Día, Franja Horaria.
+*   **Dim_Ubicación**: Comuna, Barrio, Latitud, Longitud, Cruce / Calle.
+*   **Dim_Participantes**: Rol de la víctima ( peatón, pasajero, conductor), tipo de vehículo afectado y vehículo acusado.
+*   **Hechos_Siniestros**: Tabla de hechos central que registra la cantidad de incidentes y la gravedad de los mismos.
+
 *Designed and developed by DeniseGz © 2026*
