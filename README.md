@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/EXCEL-4682B4?style=flat&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/POWER%20QUERY-1C39BB?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F8D347?style=flat&logoColor=black" />
+  ![](https://img.shields.io/badge/Hecho_en-Argentina-75AADB.svg?style=flat&logo=argentina&logoColor=white)
+  ![](https://img.shields.io/badge/Estado-En_Desarrollo-4090D1.svg?style=flat&logo=gitbook&colorB=D1E8FF)
+  ![](https://img.shields.io/badge/PowerBI_con_DAX-Argentina-75AADB.svg?style=flat&logo=powerbi&logoColor=white&colorB=D1E8FF)
+  ![](https://img.shields.io/badge/License-MIT-75AADB.svg?style=flat&colorB=D1E8FF)
 </p>
 
 🤍 *Tablero interactivo en Power BI para el análisis y visualización de incidentes viales en la Ciudad de Buenos Aires utilizando datos públicos.* 💙
@@ -26,7 +30,6 @@ El reporte interactivo desarrollado en Power BI se compone de cuatro paneles pri
 * **Evolución mensual de delitos (Gráfico de líneas)**: Analiza la tendencia temporal de los hechos mes a mes (desde enero hasta diciembre), facilitando la detección de picos estacionales y caídas en la frecuencia.
 * **Ranking de comunas con más delitos (Gráfico de barras verticales)**: Compara de forma directa el volumen de casos agrupados por número de comuna, detallando métricas de suma de hechos y recuento total.
 
----
 
 ## 🏷️ Tipologías Analizadas en el Reporte
 El tablero categoriza los incidentes bajo las siguientes variables y leyendas de control:
@@ -38,7 +41,6 @@ El tablero categoriza los incidentes bajo las siguientes variables y leyendas de
 * Muertes por siniestro
 * Robo automotor / Robo total
 
----
 
 ## 🛠️ Diccionario de Datos y Modelo
 El modelo en estrella de Power BI se compone de las siguientes tablas y dimensiones:
