@@ -9,6 +9,8 @@
 
 *Tablero interactivo en Power BI para el análisis y visualización de incidentes viales en la Ciudad de Buenos Aires utilizando datos públicos.* 💙
 
+---
+
 ### ☀️ Descripción del Proyecto 
 * Desarrollo de dashboard interactivo en Power BI para visualizar y monitorear siniestros viales en CABA a partir de fuentes de datos públicos.
 * Transformación y modelado de datos mediante Power Query y Excel, realizando limpieza y segmentación avanzada por barrios, tipología de incidentes y franjas horarias críticas. 
