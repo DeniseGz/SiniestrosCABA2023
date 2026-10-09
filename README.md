@@ -26,7 +26,6 @@ El reporte interactivo incluye cuatro visualizaciones principales para el análi
 * **Evolución mensual de delitos (Gráfico de líneas)**: Analiza la tendencia temporal de los hechos mes a mes (desde enero hasta diciembre), permitiendo identificar picos y caídas en la frecuencia de los incidentes.
 * **Ranking de comunas con más delitos (Gráfico de barras verticales)**: Compara el volumen de casos agrupados por número de comuna, detallando métricas como la suma de hechos y el recuento total.
 
----
 
 ## 🏷️ Tipologías Analizadas en el Reporte
 El tablero categoriza los incidentes bajo distintas tipologías y variables que se visualizan en las leyendas superiores:
@@ -38,7 +37,6 @@ El tablero categoriza los incidentes bajo distintas tipologías y variables que 
 * Muertes por siniestro
 * Robo automotor / Robo total
 
----
 
 ## 🛠️ Estructura de Datos del Modelo
 El modelo de datos maneja las siguientes dimensiones principales para el análisis de siniestros:
