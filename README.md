@@ -19,16 +19,17 @@
 
 
 ## 📈 Visualizaciones y Componentes del Tablero
-El reporte interactivo incluye cuatro visualizaciones principales para el análisis de los datos:
+El reporte interactivo desarrollado en Power BI se compone de cuatro paneles principales de análisis:
 
-* **Delitos por barrio (Gráfico de barras horizontales)**: Muestra la distribución de los registros clasificados por barrios de CABA (como Palermo, Balvanera, Flores, Almagro, Caballito, Recoleta, entre otros).
-* **Ubicación exacta de los delitos (Mapa interactivo)**: Un mapa geolocalizado que abarca la zona de Buenos Aires y alrededores (incluyendo partidos del conurbano como Vicente López, San Martín, Tres de Febrero, Lanús, Lomas de Zamora, Quilmes, etc.).
-* **Evolución mensual de delitos (Gráfico de líneas)**: Analiza la tendencia temporal de los hechos mes a mes (desde enero hasta diciembre), permitiendo identificar picos y caídas en la frecuencia de los incidentes.
-* **Ranking de comunas con más delitos (Gráfico de barras verticales)**: Compara el volumen de casos agrupados por número de comuna, detallando métricas como la suma de hechos y el recuento total.
+* **Delitos por barrio (Gráfico de barras horizontales)**: Muestra la distribución de los registros clasificados por los diferentes barrios de CABA (como Palermo, Balvanera, Flores, Almagro, Caballito, Recoleta, entre otros).
+* **Ubicación exacta de los delitos (Mapa interactivo)**: Un mapa geolocalizado que abarca la zona de Buenos Aires y sus alrededores (incluyendo partidos del conurbano como Vicente López, San Martín, Tres de Febrero, Lanús, Lomas de Zamora, Quilmes, etc.).
+* **Evolución mensual de delitos (Gráfico de líneas)**: Analiza la tendencia temporal de los hechos mes a mes (desde enero hasta diciembre), facilitando la detección de picos estacionales y caídas en la frecuencia.
+* **Ranking de comunas con más delitos (Gráfico de barras verticales)**: Compara de forma directa el volumen de casos agrupados por número de comuna, detallando métricas de suma de hechos y recuento total.
 
+---
 
 ## 🏷️ Tipologías Analizadas en el Reporte
-El tablero categoriza los incidentes bajo distintas tipologías y variables que se visualizan en las leyendas superiores:
+El tablero categoriza los incidentes bajo las siguientes variables y leyendas de control:
 * Amenazas
 * Homicidio doloso
 * Homicidio culposo
@@ -37,13 +38,29 @@ El tablero categoriza los incidentes bajo distintas tipologías y variables que 
 * Muertes por siniestro
 * Robo automotor / Robo total
 
+---
 
-## 🛠️ Estructura de Datos del Modelo
-El modelo de datos maneja las siguientes dimensiones principales para el análisis de siniestros:
+## 🛠️ Diccionario de Datos y Modelo
+El modelo en estrella de Power BI se compone de las siguientes tablas y dimensiones:
 
-*   **Dim_Tiempo**: Fecha, Año, Mes, Día, Franja Horaria.
-*   **Dim_Ubicación**: Comuna, Barrio, Latitud, Longitud, Cruce / Calle.
-*   **Dim_Participantes**: Rol de la víctima ( peatón, pasajero, conductor), tipo de vehículo afectado y vehículo acusado.
-*   **Hechos_Siniestros**: Tabla de hechos central que registra la cantidad de incidentes y la gravedad de los mismos.
+* **Dim_Tiempo**:
+  * `Fecha` (Fecha del hecho)
+  * `Año` (Año del siniestro)
+  * `Mes` (Mes en formato numérico y texto)
+  * `Día` (Día de la semana)
+  * `Franja_Horaria` (Mañana, Tarde, Noche, Madrugada)
+* **Dim_Ubicación**:
+  * `Comuna` (Número de comuna CABA)
+  * `Barrio` (Nombre del barrio)
+  * `Latitud` / `Longitud` (Coordenadas geográficas para el mapa)
+  * `Cruce_Calle` (Esquina o altura exacta)
+* **Dim_Participantes**:
+  * `Rol_Victima` (Peatón, conductor, pasajero, ciclista)
+  * `Vehiculo_Victima` (Moto, auto, bicicleta, etc.)
+  * `Vehiculo_Acusado` (Colectivo, auto, camión, utilitario, etc.)
+* **Hechos_Siniestros (Tabla de Hechos)**:
+  * `ID_Siniestro` (Clave única)
+  * `Gravedad_Lesion` (Leve, grave, fatal)
+  * `Cantidad_Victimas` (Métrica de conteo)
 
 *Designed and developed by DeniseGz © 2026*
