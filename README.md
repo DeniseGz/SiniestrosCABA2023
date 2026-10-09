@@ -15,3 +15,5 @@ Desarrollo de tablero interactivo en Power BI para el análisis y visualización
 * Transformación y modelado de datos mediante Power Query y Excel, realizando limpieza y segmentación avanzada por barrios, tipología de incidentes y franjas horarias críticas. 
 * Desarrollo de medidas y KPIs complejos con DAX para la detección precisa de zonas de alto riesgo vial.
 * Automatización de reportes mensuales, optimizando los tiempos de actualización y facilitando el acceso a información clave para la toma de decisiones.
+
+*Designed and developed by DeniseGz © 2026*
