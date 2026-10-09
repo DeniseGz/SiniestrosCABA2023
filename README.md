@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/DAX-F8D347?style=flat&logoColor=black" />
 </p>
 
-*Tablero interactivo en Power BI para el análisis y visualización de incidentes viales en la Ciudad de Buenos Aires utilizando datos públicos.* 💙
+🤍 *Tablero interactivo en Power BI para el análisis y visualización de incidentes viales en la Ciudad de Buenos Aires utilizando datos públicos.* 💙
 
 ---
 
@@ -17,7 +17,7 @@
 * Desarrollo de medidas y KPIs complejos con DAX para la detección precisa de zonas de alto riesgo vial.
 * Automatización de reportes mensuales, optimizando los tiempos de actualización y facilitando el acceso a información clave para la toma de decisiones.
 
-## 🤍 Estructura de Datos del Modelo
+## 💛 Estructura de Datos del Modelo
 El modelo de datos maneja las siguientes dimensiones principales para el análisis de siniestros:
 
 *   **Dim_Tiempo**: Fecha, Año, Mes, Día, Franja Horaria.
